@@ -1,4 +1,0 @@
-#!/bin/bash
-# Stop all TTS audio playback
-killall afplay 2>/dev/null
-echo "🔇 Audio stopped"
