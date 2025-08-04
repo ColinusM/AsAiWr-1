@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "hooks": {
+    "tool": {
+      "enabled": true
+    }
+  },
+  "models": {
+    "primary": "claude-sonnet-3.5-20241022",
+    "secondary": "claude-haiku-3-20241022"
+  }
+}
